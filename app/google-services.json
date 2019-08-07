@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "38928987998",
+    "firebase_url": "https://travelmanti-7e23b.firebaseio.com",
+    "project_id": "travelmanti-7e23b",
+    "storage_bucket": "travelmanti-7e23b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38928987998:android:6f4cb48fd16b5f13",
+        "android_client_info": {
+          "package_name": "com.example.travelmanti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38928987998-bilir9pgn2g16b95e01h1hqgsdk603te.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelmanti",
+            "certificate_hash": "b27fd5838737ede4b2f8bddac936f58e249a972c"
+          }
+        },
+        {
+          "client_id": "38928987998-srbm895it48vsida0o7ienaq8p13q2g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCytLpRJMgoJMb4Dmqwzdz_-gtFS8rYo8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38928987998-srbm895it48vsida0o7ienaq8p13q2g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
